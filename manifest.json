@@ -1,0 +1,7 @@
+{
+  "name": "RPSpolymer",
+  "short_name": "RPSpolymer",
+  "description": "Rock Paper Scissors game",
+  "start_url": "/",
+  "display": "standalone"
+}
