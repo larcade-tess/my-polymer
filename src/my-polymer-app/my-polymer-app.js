@@ -135,14 +135,14 @@ buttonclick(e) {
     // }
   }
 
-  // static get properties() {
-  //   return {
-  //     prop1: {
-  //       type: String,
-  //       value: 'Rock Paper Scissors'
-  //     }
-  //   };
-  // }
+  static get properties() {
+    return {
+      prop1: {
+        type: String,
+        value: 'Rock Paper Scissors'
+      }
+    };
+  }
 
 
 }
